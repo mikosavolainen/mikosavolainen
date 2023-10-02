@@ -9,5 +9,7 @@ Eniten käytetyt koodikielet
 Yhteystiedot:
 </h1>
 <p align="center">
-    <img href="https://www.w3schools.com/" src="https://skillicons.dev/icons?i=discord" />
+<a href="https://www.w3schools.com/">
+    <img src="https://skillicons.dev/icons?i=discord" />
+    </a>
 </p>
