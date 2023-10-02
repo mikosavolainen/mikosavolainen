@@ -19,4 +19,12 @@ Yhteystiedot:
 <a href="https://discord.me/ravenrp">
     <img src="https://skillicons.dev/icons?i=discord" />
     </a>
+
+<a href="https://discord.me/ravenrp">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+    </a>
+
+<a href="https://discord.me/ravenrp">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+    </a>        
 </p>
