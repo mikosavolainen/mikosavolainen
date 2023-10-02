@@ -1,8 +1,15 @@
 <h1>
-Eniten käytetyt koodikielet
+Koodikielet mitä opettelen:
 </h1>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=git,mysql,js,html,css,lua,php,wordpress" />
+    <img src="https://skillicons.dev/icons?i=mysql,js,html,css,lua,php,nodejs,py" />
+</p>
+
+<h1>
+Sovellukset joita käytän:
+</h1>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=git,wordpress,firebase,figma,azure,vscode,rasberrypi" />
 </p>
 
 <h1>
