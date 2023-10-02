@@ -9,7 +9,7 @@ Koodikielet mitä opettelen:
 Sovellukset joita käytän:
 </h1>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=git,wordpress,firebase,figma,azure,vscode,rasberrypi" />
+    <img src="https://skillicons.dev/icons?i=git,wordpress,firebase,figma,azure,vscode,rasberrypi,cloudflare" />
 </p>
 
 <h1>
@@ -21,10 +21,13 @@ Yhteystiedot:
     </a>
 
 <a href="https://discord.me/ravenrp">
-    <img src="https://skillicons.dev/icons?i=twitter" />
+    <img src="https://skillicons.dev/icons?i=instagram" />
     </a>
 
 <a href="https://discord.me/ravenrp">
     <img src="https://skillicons.dev/icons?i=linkedin" />
-    </a>        
+    </a>  
+    
+          
+          
 </p>
