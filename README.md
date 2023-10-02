@@ -1,5 +1,6 @@
+<h1>
+Käytössä olevassa
+</h1>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,mysql,js,html,lua,php,wordpress" />
-  </a>
+    <img src="https://skillicons.dev/icons?i=git,mysql,js,html,css,lua,php,wordpress" />
 </p>
