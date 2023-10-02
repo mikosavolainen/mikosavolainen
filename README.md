@@ -9,7 +9,7 @@ Koodikielet mitä opettelen:
 Sovellukset joita käytän:
 </h1>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=git,wordpress,firebase,figma,azure,vscode,raspberrypi,cloudflare" />
+    <img src="https://skillicons.dev/icons?i=git,wordpress,firebase,figma,azure,vscode,raspberrypi" />
 </p>
 
 <h1>
