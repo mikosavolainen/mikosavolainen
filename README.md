@@ -28,7 +28,8 @@ Yhteystiedot:
     <img src="https://skillicons.dev/icons?i=linkedin" />
     </a>  
     
-    <h1>📻OH3CYT</h1>
+    
           
           
 </p>
+<h1>📻OH3CYT</h1>
