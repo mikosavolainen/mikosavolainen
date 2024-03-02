@@ -34,6 +34,9 @@ Yhteystiedot:
 </p>
 <h1>📻OH3CYT</h1>
 
-<a href="https://oh3cyt.com">
-<h1>Minun nettisivut<h1>
-</a>
+<section id="HF-Logbook">
+    <h2 id="log-h2">Last contacts:</h2>
+        <div class="iframe-container">
+            <iframe frameborder="0" scrolling="yes" src="https://logbook.qrz.com/lbstat/OH3CYT/"></iframe>
+        </div>
+</section>
